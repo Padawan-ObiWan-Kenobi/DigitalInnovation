@@ -8,21 +8,10 @@ class Pessoa {
     constructor()
 
     fun pessoaInfo() = "$nome e $cpf"
-
-    //Classe interna - quando ao criar a classe principal a variavel nao foi instanciada
-    //Criando uma classe dentro de outra classe
-    //inner class endereco {
-    //    var rua: String = "rua teste"
-    //}
 }
 
 fun main() {
     val jether = Pessoa()
-    //jether.cpf = "4567" // Altera a variavel em tempo de execucao, mesmo que esta variavel ja tenho sido declarado o seu valor anteriormente
-
-    //println(jether.nome)
-    //println(jether.cpf)
-    //println(jether.endereco().rua)
 
     println(jether.pessoaInfo())
 }
