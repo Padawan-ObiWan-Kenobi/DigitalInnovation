@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.collections.classes
 
 class Pessoa {
     var nome: String = "Jether" // Utilizando private como um modificador de visualidade, para que a variavel nao possa ser alterada em tempo de execucao, sendo visivel somente dentro do escopo da classe

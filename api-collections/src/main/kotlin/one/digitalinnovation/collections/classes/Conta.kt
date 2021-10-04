@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.collections.classes
 
 import java.math.BigDecimal
 
