@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.digionebank
 
 fun main() {
     val values = intArrayOf(2, 3, 4, 1, 10, 7)

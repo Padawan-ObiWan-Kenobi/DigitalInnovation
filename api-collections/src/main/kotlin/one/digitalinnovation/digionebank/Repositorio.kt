@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.digionebank
 
 class Repositorio<T> {
     private val map = mutableMapOf<String, T>()

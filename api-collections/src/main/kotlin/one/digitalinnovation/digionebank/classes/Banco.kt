@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections.classes
+package one.digitalinnovation.digionebank.classes
 
 data class Banco(
     val nome: String,

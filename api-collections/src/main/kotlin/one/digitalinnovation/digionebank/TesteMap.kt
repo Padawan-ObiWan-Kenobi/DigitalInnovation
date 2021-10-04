@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.digionebank
 
 fun main() {
     val pair: Pair<String, Double> = Pair("Joao", 1000.0)
