@@ -1,6 +1,6 @@
 package one.digitalinnovation.digionebank.testes
 
-import one.digitalinnovation.digionebank.TipoCliente
+import one.digitalinnovation.digionebank.classes.TipoCliente
 
 fun main() {
     TipoCliente.values().forEach { elemento -> // Uma das formas de apresentar a informacao do tipo de conta do cliente
